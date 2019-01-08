@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Capstone Project</string>
+    <string name="title_activity_credit_card">creditCard</string>
+    <string name="title_activity_studentloan">studentloan</string>
+    <string name="title_activity_car">car</string>
+    <string name="title_activity_house">house</string>
+</resources>
